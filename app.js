@@ -1,5 +1,5 @@
 const max=prompt("Enter max number");
-
+console.log("Welcome to this game");
 const random=Math.floor(Math.random()*max)+1;
 console.log(random);
 
